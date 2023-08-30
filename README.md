@@ -1,4 +1,9 @@
 # Unit testing with Jest
+## Usage
+- If you don't have Node.js installed, download and install it form https://nodejs.org/en
+- Clone repository and cd to the new folder
+- `npm install`
+- `npm test`
 
 ## ECMAScript Modules
 Since Jest ships with experimental support for ECMAScript Modules (ESM), we need to do a few things before we can test scripts using ESM.
